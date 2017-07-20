@@ -39,8 +39,8 @@ An app that combines fundamental math concepts with the engaging elements of mob
 * Players will take on the responsibility of building their town from the ground up.
 
 * Upon logging in, players will be presented with a view of their town. Core gameplay is centered around two mechanics:
-  * [Harvesting](#harvesting)
-  * [Building](#building)
+  * [Harvesting](##harvesting)
+  * [Building](##building)
 
 ##Harvesting
   * In order to generate resources to build their town, players must play various levels- each level asks different types of math questions designed to hone the repititions needed to reinforce a strong math foundation.
